@@ -11,7 +11,7 @@ export default function Hero () {
     
   return (
     <>
-      <div className=''>
+      <div className='block'>
         <img
           src={hero_bg}
           className=' absolute w-[100%] h-[100%] z-[-1]'
